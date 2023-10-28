@@ -20,3 +20,5 @@ https://github.com/ROM-robotics/rom_motor_msgs-release
 https://github.com/ROM-robotics/rom_msgs
 
 https://github.com/ROM-robotics/rom2109_controller-release
+
+https://github.com/ROM-robotics/rom2109_stm32_driver
